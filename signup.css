@@ -1,0 +1,35 @@
+.a{
+    text-align: center;
+    font-family: century gothic;
+    font-size: 35px;
+}
+
+#b{
+    color:#A13333;
+}
+
+#c{
+    color: #DE834D;
+}
+
+body{
+    margin:0px;
+}
+
+#d{
+    padding: 20px;
+    background-color: #46CDCF;
+    font-family: century gothic;
+    color: white;
+    text-decoration: none;
+    border-radius: 35px;
+    font-size: 17px;
+
+}
+
+#d:hover{
+    box-shadow: black 5px 8px 18px;
+    position: relative;
+    top: -5px;
+    left: -5px;
+}
